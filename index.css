@@ -1467,6 +1467,19 @@ ul {
         font-size: 16px;
     }
 
+    .header__button {
+        font-size: 10px;
+    }
+
+    .header__logo {
+        max-width: 130px;
+    }
+
+    .header__logo a img{
+        width: 100%;
+        height: auto;
+    }
+
     .hero__text-container {
         gap: 30px;
     }
@@ -1508,7 +1521,7 @@ ul {
     }
 
     .download__stat-label {
-        font-size: 18px;
+        font-size: 11px;
     }
 
     .download__stat1 {
